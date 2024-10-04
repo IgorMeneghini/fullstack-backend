@@ -14,7 +14,7 @@ public class Card {
     private String suburb;
     private int category;
     private String description;
-    private String newField;
+    private final String newField = "Lead Invitation";
     private float price;
     private String status;
     private String phoneNumber;
@@ -70,10 +70,6 @@ public class Card {
 
     public String getNewField() {
         return newField;
-    }
-
-    public void setNewField(String newField) {
-        this.newField = newField;
     }
 
     public float getPrice() {
