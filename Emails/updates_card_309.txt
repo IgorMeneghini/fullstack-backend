@@ -1,0 +1,15 @@
+Subject: Lead Acceptance Notification
+To: vendas@test.com
+
+Dear Sales Team,
+
+We would like to inform you that the lead has been accepted and updated to accepted status in the database.
+
+Transaction Details:
+- Price: $1170.0 (10% discount applied)
+
+If you have any questions or need further assistance, please do not hesitate to contact us.
+
+Best regards,
+
+[Igor Vidal]
